@@ -8,13 +8,10 @@
 
 | Nome |
 |------|
-| Felipe Lima de Oliveira |
-| Gustavo Victor de Araujo Silva |
 | Larissa Mariana de Souza Oliveira |
 | Lilian Fernanda Pereira de Aguiar |
 | Luana Alves do Santos |
 | Mateus Nascimento Nogueira |
-| Nicolas Jovino Pontes |
 | Victor Mendes Ferreira Mello |
 
 
