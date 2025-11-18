@@ -122,9 +122,11 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 
 ##  5. Diagramas – Fase 1  
 
-Os diagramas da parte um se encontram na pasta Diagramas
-![Diagrama de Casos de uso](Diagramas/DIagrama de casos de uso.png)
-![Diagrama de Classes](Diagramas/Diagrama de classes.png)
+1. Diagrama de Casos de uso.
+![Diagrama de Casos de uso](Diagramas/DIagrama_casos_de_uso.png)
+
+2. Diagrama de Classes.
+![Diagrama de Classes](Diagramas/Diagrama_de_classes.png)
 
 
 ##  6. Contato do Grupo  
