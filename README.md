@@ -62,7 +62,7 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 7. O sistema grava as informações no banco de dados.  
 8. O sistema retorna uma mensagem de sucesso informando que a Pessoa Física foi cadastrada.  
 9. O usuário pode escolher cadastrar outra pessoa ou voltar ao menu principal.
-
+![Cadastrar Pessoa Fisica](prototipos/Jornada.cadastrar_pessoaFisica.jpg)
 
 
 ##  4.2 Jornada – Cadastro de Pessoa Jurídica
@@ -76,7 +76,7 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 7. O sistema registra os dados no banco de dados.  
 8. O sistema exibe uma mensagem confirmando o sucesso da operação.  
 9. O usuário pode retornar ao menu inicial ou seguir para outro cadastro.
-
+![Cadastrar Pessoa Juridica](prototipos/Jornada_cadastrar_pessoaJuridica.jpg)
 
 
 ##  4.3 Jornada – Cadastro de Professores
@@ -89,7 +89,7 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 6. O usuário conclui a operação clicando em **Salvar**.  
 7. O sistema registra o novo professor e exibe uma confirmação de sucesso.  
 8. O usuário pode seguir cadastrando mais professores ou voltar ao menu principal.
-
+![Cadastrar Professor](prototipos/Jornada_cadastrar_professor.jpg)
 
 
 ##  4.4 Jornada – Cadastro de Fornecedores
@@ -103,7 +103,7 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 7. O sistema armazena os dados do fornecedor.  
 8. Uma mensagem é exibida confirmando que o fornecedor foi cadastrado com sucesso.  
 9. O usuário retorna ao menu ou inicia um novo cadastro.
-
+![Cadastrar Fornecedor](prototipos/Jornada_cadastrar_fornecedor.jpg)
 
 
 ##  4.5 Jornada – Cadastro de Alunos
@@ -117,50 +117,17 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 7. O sistema salva os dados do aluno.  
 8. Uma mensagem de conclusão é exibida confirmando o cadastro bem-sucedido.  
 9. O usuário pode cadastrar outro aluno ou retornar ao menu inicial.
-
+![Cadastrar Aluno](prototipos/Jornada_cadastrar_aluno.jpg)
 
 
 ##  5. Diagramas – Fase 1  
-Os diagramas criados anteriormente devem ser anexados na pasta `/diagramas`.
 
-###  Diagrama de Classes  
-```
-![Diagrama de Classes](diagramas/diagramas-classes.png)
-```
-
-###  Demais diagramas:
-- Casos de uso  
-- Atividades  
-- Modelo conceitual (se aplicável)
+Os diagramas da parte um se encontram na pasta Diagramas
+![Diagrama de Casos de uso](Diagramas/DIagrama de casos de uso.png)
+![Diagrama de Classes](Diagramas/Diagrama de classes.png)
 
 
-
-## 6. Estrutura Sugerida do Repositório
-
-
- PtiGrupo39
-├──  prototipos
-│   └── miro-link.txt
-├──  diagramas
-│   ├── caso-de-uso.png
-│   ├── atividades.png
-│   └── classes.png
-└── README.md
-
-
-##  7. Objetivo da Entrega  
-Este README atende aos requisitos da Fase 2:
-
-- Repositório GitHub criado  
-- Integrantes adicionados como colaboradores  
-- Documento oficial em Markdown  
-- Link para o protótipo completo no Miro  
-- Inclusão das jornadas do usuário  
-- Espaço reservado para diagramas da Fase 1  
-
-
-
-##  8. Contato do Grupo  
+##  6. Contato do Grupo  
 Dúvidas podem ser enviadas diretamente no repositório através das *Issues*.
 
 
