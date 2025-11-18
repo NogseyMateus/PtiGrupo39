@@ -62,7 +62,7 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 7. O sistema grava as informações no banco de dados.  
 8. O sistema retorna uma mensagem de sucesso informando que a Pessoa Física foi cadastrada.  
 9. O usuário pode escolher cadastrar outra pessoa ou voltar ao menu principal.
-![Cadastrar Pessoa Fisica](prototipos/Jornada.cadastrar_pessoaFisica.jpg)
+![Cadastrar Pessoa Fisica](prototipos/Jornada_cadastrar_pessoaFisica.jpg)
 
 
 ##  4.2 Jornada – Cadastro de Pessoa Jurídica
@@ -76,7 +76,7 @@ A seguir estão descritas as jornadas do usuário para cada processo do sistema,
 7. O sistema registra os dados no banco de dados.  
 8. O sistema exibe uma mensagem confirmando o sucesso da operação.  
 9. O usuário pode retornar ao menu inicial ou seguir para outro cadastro.
-![Cadastrar Pessoa Juridica](prototipos/Jornada_cadastrar_pessoaJuridica.jpg)
+![Cadastrar Pessoa Juridica](prototipos/Jornada_cadastra_pessoaJuridica.jpg)
 
 
 ##  4.3 Jornada – Cadastro de Professores
